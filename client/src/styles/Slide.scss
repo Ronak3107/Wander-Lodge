@@ -1,0 +1,16 @@
+.slide {
+  width: 100vw;
+  height: 85vh;
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("../../public/assets/WLslide.jpg");
+  background-position: center top;
+  background-size: cover;
+
+  h1 {
+    padding: 165px 20px;
+    font-size: 40px;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.804);
+  }
+}
+
