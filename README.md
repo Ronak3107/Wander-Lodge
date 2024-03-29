@@ -1,6 +1,6 @@
 # Wander Lodge: Your Ultimate Vacation Rental Platform
 
-                                    <img width="477" alt="WLlogo" src="https://github.com/Ronak3107/Wander-Lodge/assets/153888909/0ab694be-30d9-4594-8b35-7c41a5abdf70">
+<img width="477" alt="WLlogo" src="https://github.com/Ronak3107/Wander-Lodge/assets/153888909/0ab694be-30d9-4594-8b35-7c41a5abdf70">
 
 
 Wander Lodge is a full-stack web application for Home Rental services. It allows users to discover, book, and host unique accommodations around the world. Whether you’re planning a relaxing getaway or looking to earn extra income by hosting guests, Wander Lodge has you covered.
